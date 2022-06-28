@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body{
-    font-family: 'Volte';
+    font-family: 'Volte', sans-serif;
 }
 
 .navbar-fixed{
